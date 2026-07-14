@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Estagi%C3%A1rio+de+TI;Web+design;Desenvolvimento+fullstack" alt="Texto animado com meu nome e funções"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas;Estagi%C3%A1rio+de+TI;Web+design;Desenvolvimento+fullstack" alt="Texto animado com meu nome e funções"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>

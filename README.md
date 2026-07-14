@@ -56,7 +56,7 @@ Uma plataforma full-stack de automação predial baseada em Modbus TCP, com o m�
 ### 🧩 Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,tauri,nodejs,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,html,nodejs,git,vscode,latex,sqlite,vite,discord" />
 </p>
 
 ---
@@ -69,4 +69,4 @@ Uma plataforma full-stack de automação predial baseada em Modbus TCP, com o m�
 
 ---
 
-<p align="center"><i>"Construindo pontes entre software e hardware, um protocolo de cada vez."</i></p>
+<p align="center"><i>"The mystery of life isn't a problem to solve, but a reality to experience."</i></p>

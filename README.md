@@ -30,9 +30,9 @@ Uma plataforma full-stack de automação predial baseada em Modbus TCP, com o m�
 | Camada | Stack |
 |---|---|
 | **Backend** | Python + FastAPI |
-| **Frontend Desktop** | React + TypeScript + Tauri |
-| **Mobile** | React Native + Expo |
-| **Carregadores EV** | OCPP 1.6 · ABB Terra AC |
+| **Frontend Desktop** | React + TypeScript  |
+| **Mobile** | React Native  |
+| **Carregadores EV** | OCPP 1.6 |
 | **Protocolo predial** | Modbus TCP |
 
 **Funcionalidades recentes:**

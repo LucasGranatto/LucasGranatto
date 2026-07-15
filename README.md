@@ -45,7 +45,7 @@ Uma plataforma full-stack de automação predial baseada em Modbus TCP, com o m�
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasGranatto&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=LucasGranatto&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
 </p>
 
 ---

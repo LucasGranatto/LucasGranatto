@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!;Estagi%C3%A1rio+de+TI;Web+Designer+%26+Fullstack+Dev;Apaixonado+por+automa%C3%A7%C3%A3o+e+EV" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!;Estagi%C3%A1rio+de+TI;Web+Designer+%26+Fullstack+Dev;" alt="Typing Animation" />
 </p>
 
 <!-- Contador de visitas + redes sociais, tudo em um só lugar -->

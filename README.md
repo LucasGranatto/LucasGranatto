@@ -62,8 +62,8 @@ Plataforma full-stack de automação predial (Modbus TCP) com módulo de carrega
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasGranatto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=LucasGranatto&theme=midnight-purple&cache_seconds=1800" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasGranatto&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=LucasGranatto&theme=midnight-purple" />
 </p>
 
 ---

@@ -54,8 +54,8 @@ Plataforma full-stack de automação predial (Modbus TCP) com módulo de carrega
 
 **Destaques recentes:**
 - ✅ Whitelist de autorização por ID tag
-- ✅ Correção de bug crítico de loop infinito
 - ✅ Perfis de carregamento inteligente (`SetChargingProfile`, `MeterValues`, `StatusNotification`)
+- ✅ Adição de Smart Charging (`ChargingSchedule`, `Stack Levels`, `GetCompositeSchedule`)
 
 ---
 

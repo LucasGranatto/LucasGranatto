@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!;Estagi%C3%A1rio+de+TI;Web+Designer+%26+Fullstack+Dev;" alt="Typing Animation" />
 </p>
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-granatto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/lucasgranatto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -64,6 +62,16 @@ Plataforma full-stack de automação predial (Modbus TCP) com módulo de carrega
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasGranatto&show_icons=true&theme=midnight-purple&include_all_commits=true" />
   <img height="170em" src="https://streak-stats.demolab.com?user=LucasGranatto&theme=midnight-purple" />
+</p>
+
+---
+
+### 🐾 CodePet
+
+My coding activity, visualized as a pet. Feed it commits to keep it alive.
+
+<p align="center">
+  <img src="https://your-codepet.vercel.app/api/pet?user=LucasGranatto" alt="CodePet" />
 </p>
 
 ---

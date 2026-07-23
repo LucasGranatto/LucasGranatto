@@ -66,16 +66,6 @@ Plataforma full-stack de automação predial (Modbus TCP) com módulo de carrega
 
 ---
 
-### 🐾 CodePet
-
-My coding activity, visualized as a pet. Feed it commits to keep it alive.
-
-<p align="center">
-  <img src="https://git-code-pet.vercel.app/api/pet?user=LucasGranatto" alt="CodePet" />
-</p>
-
----
-
 ### 🧩 Skills
 
 <p align="center">

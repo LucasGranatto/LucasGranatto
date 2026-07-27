@@ -61,7 +61,7 @@ Estagiário de TI trabalhando com automação predial e infraestrutura de recarg
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,tauri,nodejs,git,css,html,vscode,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,nodejs,git,css,html,vscode,docker,c,cpp,sqlite" />
 </p>
 
 ---

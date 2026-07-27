@@ -16,7 +16,7 @@
 
 ### Sobre mim
 
-Estagiário de TI trabalhando atualmente com automação predial e infraestrutura de recarga de veículos elétricos em desenvolvimento fullstack. Porém meus focos de estudo são principalmente no frontend com webdesign e trânsito confortável pelo fullstack
+Estagiário de TI trabalhando com automação predial e infraestrutura de recarga de veículos elétricos. Atuo do hardware em campo ao software que o controla, com foco principal em frontend/web design e trânsito confortável pelo fullstack.
 
 🇧🇷 Brasileiro &nbsp;|&nbsp; 🗣️ Português (nativo) e Inglês (fluente)
 
@@ -24,27 +24,28 @@ Estagiário de TI trabalhando atualmente com automação predial e infraestrutur
 
 ### Projetos em destaque
 
-**March System Controller**
-Plataforma full-stack de automação predial via Modbus TCP, com módulo de carregamento de VEs integrado — do hardware na parede ao app no bolso.
-
-| | |
-|---|---|
-| Backend | Python + FastAPI |
-| Frontend Desktop | React + TypeScript |
-| Mobile | React Native |
-| Carregadores EV | OCPP 1.6 |
-| Protocolo predial | Modbus TCP |
-
-Destaques recentes:
-- Whitelist de autorização por ID tag
-- Perfis de carregamento inteligente (`SetChargingProfile`, `MeterValues`, `StatusNotification`)
-- Smart Charging (`ChargingSchedule`, `Stack Levels`, `GetCompositeSchedule`)
-
-**[EV Charger Fleet Simulator](https://github.com/LucasGranatto/EV-Charger-Simulator)**
-Simulador de carregadores EV para testar protocolos OCPP, com terminais e comandos simples de usar em grande escala.
-
-**[Financial Tracker](https://github.com/LucasGranatto/Financial-Planner-Tracker)**
-Aplicação fullstack para controlar ganhos e gastos em formato de planilha, com categorias personalizáveis e gráficos de evolução mensal.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>March System Controller</b><br/><br/>
+      Plataforma full-stack de automação predial via Modbus TCP, com módulo de carregamento de VEs integrado.<br/><br/>
+      <b>Stack:</b> Python, FastAPI, React, TypeScript, React Native, OCPP 1.6<br/><br/>
+      <b>Destaques:</b> whitelist por ID tag, perfis de carregamento inteligente, Smart Charging (<code>ChargingSchedule</code>, <code>GetCompositeSchedule</code>)
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/LucasGranatto/EV-Charger-Simulator">EV Charger Fleet Simulator</a></b><br/><br/>
+      Simulador de carregadores EV para testar protocolos OCPP.<br/><br/>
+      <b>Stack:</b> Python<br/><br/>
+      <b>Destaques:</b> terminais e comandos simples para simular estações de carregamento
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/LucasGranatto/Financial-Planner-Tracker">Financial Tracker</a></b><br/><br/>
+      Aplicação fullstack para controlar ganhos e gastos em formato de planilha.<br/><br/>
+      <b>Stack:</b> JavaScript<br/><br/>
+      <b>Destaques:</b> categorias personalizáveis, gráficos de evolução mensal
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +61,7 @@ Aplicação fullstack para controlar ganhos e gastos em formato de planilha, com
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,nodejs,git,css,html,vscode,docker,discord" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,tauri,nodejs,git,css,html,vscode,docker,postgres" />
 </p>
 
 ---
